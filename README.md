@@ -5,7 +5,8 @@ University: University of Cyprus - Cyprus
 
 Competition @ https://competitions.codalab.org/competitions/20395
 
-Usage:\\
+Usage:
+
 1 - Execute "rawDataHandler.py" to check train folder data.
 
 2 - Execute "dataAugmentation.py" to create "data" folder.
